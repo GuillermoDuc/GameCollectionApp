@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807981191837",
+    "project_id": "gamecollection-9c0ab",
+    "storage_bucket": "gamecollection-9c0ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807981191837:android:60015092b1d0ffcf5d3a74",
+        "android_client_info": {
+          "package_name": "com.example.gamecollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807981191837-p6tul0oavdnl1uftbmr8s4tg137uugib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAlWVvyqJlwd-cfRPiF1iN-DbwcwC62BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807981191837-p6tul0oavdnl1uftbmr8s4tg137uugib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
