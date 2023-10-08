@@ -1,7 +1,8 @@
-![logo3](https://github.com/GuillermoDuc/GameCollectionApp/assets/95349930/66674e4f-54be-4995-98c2-f643fba477ce)
+![logo3](https://github.com/GuillermoDuc/GameCollectionApp/assets/95349930/bd527c8b-b9b6-418e-9704-b2409f018fb4)
 
 Android app built with Jetpack Compose to keep track of games tied to an email account
-![Captura de pantalla 2023-10-08 204354](https://github.com/GuillermoDuc/GameCollectionApp/assets/95349930/e8f7b7cb-89a3-44e8-8d80-164ffde78961)
+![Captura de pantalla 2023-10-08 204354](https://github.com/GuillermoDuc/GameCollectionApp/assets/95349930/46d5c2ba-6656-444f-a9b9-5b2fb257e837)
+
 
 
 Data is from the [RAWG.IO API](<https://rawg.io/>)
